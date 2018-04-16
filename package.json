@@ -118,7 +118,7 @@
     "saucelabs": "^1.4.0",
     "sinon": "^4.0.0",
     "snyk": "^1.28.0",
-    "wdio-mocha-framework": "^0.5.9"
+    "wdio-mocha-framework": "github:marcelas/wdio-mocha-framework#769eec759bff54762dd277a5ead4ed792556b5f6"
   },
   "tags": [
     "webdriver",
